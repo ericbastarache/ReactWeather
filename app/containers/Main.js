@@ -1,6 +1,6 @@
 var React = require('react');
 
-var HelloWorld = React.createClass({
+var Header = React.createClass({
   render: function () {
     return (
       <div>
@@ -12,4 +12,4 @@ var HelloWorld = React.createClass({
   }
 })
 
-module.exports = HelloWorld;
+module.exports = Header;
