@@ -4,7 +4,7 @@ var PropTypes = React.PropTypes;
 function Button (props) {
   return (
     <button type='button'
-      style={{margin: 01}}
+      style={{margin: 10}}
       className='btn btn-sucess'
       onClick={props.onSubmitCity}>
       {props.children}
