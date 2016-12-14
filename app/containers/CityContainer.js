@@ -35,4 +35,4 @@ var CityContainer = React.createClass({
   }
 });
 
-nodule.exports = CityContainer;
+module.exports = CityContainer;
