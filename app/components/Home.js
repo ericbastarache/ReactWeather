@@ -4,8 +4,6 @@ var CityContainer = require('../containers/CityContainer');
 
 var styles = {
   container: {
-    backgroundSize: 'cover',
-    backgroundImage: "url('app/images/bg.png')",
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'center',
