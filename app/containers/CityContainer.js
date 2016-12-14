@@ -24,7 +24,7 @@ var CityContainer = React.createClass({
       city: e.target.value
     })
   },
-  render: funcion () {
+  render: function () {
     return (
       <City
         direction={this.props.direction}
